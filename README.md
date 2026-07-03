@@ -23,7 +23,7 @@ This project tracks the gap between food *needed* and food *distributed* at the 
 
 | File | Description |
 |---|---|
-| `CAFB_Food_Insecurity_Dashboard.xlsx` | The full workbook — source data, calculations, pivots, and dashboard |
+| `CAFB_Dashboard.xlsx` | The full workbook — source data, calculations, pivots, and dashboard |
 | `CAFB_HungerEstimates_Source_Data.csv` | Raw tract-level hunger estimates (source data) |
 
 ## Data & Method
